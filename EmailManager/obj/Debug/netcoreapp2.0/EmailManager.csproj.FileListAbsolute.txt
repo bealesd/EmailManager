@@ -1,0 +1,8 @@
+C:\Users\dave\Desktop\EmailManager\EmailManager\bin\Debug\netcoreapp2.0\EmailManager.deps.json
+C:\Users\dave\Desktop\EmailManager\EmailManager\bin\Debug\netcoreapp2.0\EmailManager.dll
+C:\Users\dave\Desktop\EmailManager\EmailManager\bin\Debug\netcoreapp2.0\EmailManager.pdb
+C:\Users\dave\Desktop\EmailManager\EmailManager\obj\Debug\netcoreapp2.0\EmailManager.csproj.CoreCompileInputs.cache
+C:\Users\dave\Desktop\EmailManager\EmailManager\obj\Debug\netcoreapp2.0\EmailManager.AssemblyInfoInputs.cache
+C:\Users\dave\Desktop\EmailManager\EmailManager\obj\Debug\netcoreapp2.0\EmailManager.AssemblyInfo.cs
+C:\Users\dave\Desktop\EmailManager\EmailManager\obj\Debug\netcoreapp2.0\EmailManager.dll
+C:\Users\dave\Desktop\EmailManager\EmailManager\obj\Debug\netcoreapp2.0\EmailManager.pdb
